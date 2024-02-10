@@ -22,15 +22,35 @@
 | <img width="75px" src="https://img.icons8.com/color/256/nodejs.png">  | <img width="75px" src="https://github.com/Satyamjha24/pointless-belief-3937/assets/98752820/c7b07b05-0b7d-4d12-8147-8dfd08d21a76"> | <img width="75px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"> | <img width="70px" src="https://img.icons8.com/color/256/mongoose.png"> | <img width="70px" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png"> |
 
 
+# 🏷️ Home Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
 
+# 🏷️ Signup Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Login Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Products Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Details Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Cart Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Admin Login Page
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
+
+# 🏷️ Admin Dashboard
+![image](https://github.com/Khushi018/Minor-Project/blob/main/images/home%20page.png)
 
 ## More Project Details :-
 
 - Type : Individual Project
 - Duration of Project - 5 Days
-<a style="color:#ffd41f" href="https://github.com/khushi018">Khushi Gupta</a>
-
----
+- <a style="color:#ffd41f" href="https://github.com/khushi018">Khushi Gupta</a>
 
 <br/>
 
